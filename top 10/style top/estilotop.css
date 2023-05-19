@@ -1,0 +1,58 @@
+table, td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table{
+    width: 80%;
+    margin: auto;
+    justify-content: space-around;
+}
+
+h1{
+    text-align: center;
+}
+
+tr{
+    text-align: center;
+}
+
+.AlLa{
+    background-color: darkgrey;
+}
+
+.Vic{
+    background-color: burlywood;
+}
+
+.AlRe{
+    background-color: green;
+}
+
+.ReEs{
+    background-color: rgb(143, 76, 76);
+}
+
+.Estrella{
+    background-color: rgb(255, 54, 54);
+}
+
+.Super{
+    background-color: darkgoldenrod;
+}
+
+.Stella{
+    background-color: gold;
+}
+
+.Ko{
+    background-color: khaki;
+}
+
+.AlRo{
+    background-color: rgba(178, 34, 34, 0.795);
+}
+
+.Mohou{
+    background-color: cyan;
+}
